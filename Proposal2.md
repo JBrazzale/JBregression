@@ -2,9 +2,9 @@
 ## Joseph Brazzale (9/22/21)
 
 ### Question
-- By taking a look at over 1000 historical film releases. Can we predict how successful a film will be before it is released?
-  I will be measuring a films success by how much revenue it generates. I will also find which parameters will best predict
-  a movies success. 
+- By taking a look at over 1000 historical film releases, can we predict how successful a film will be before it is released?
+  I will be measuring a film's success by how much revenue it generates. I will also find which parameters will best predict
+  a movie's success. 
 - This project will be geared towards a movie studio. It will allow them to determine which projects to invest in.
 
 ### Data
