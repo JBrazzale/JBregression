@@ -1,7 +1,7 @@
 # Linear Regression Project Proposal
-***
+* # 9/22/21**
 ### Joseph Brazzale 
-#### 09/22/21
+
 
 ### Question
 -
