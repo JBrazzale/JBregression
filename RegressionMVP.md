@@ -1,4 +1,4 @@
-## MVP for Predicting Box Office Success -Joseph Brazzale
+## MVP for Predicting Box Office Success - Joseph Brazzale
 ### 09/28/21
 
 - for this project, my intention is to highlight features that will be the best indicator of a movie's success. I will be measuring 
